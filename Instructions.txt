@@ -1,5 +1,4 @@
 yum install wget glibc gcc perl glibc.i686 perl-DBI.x86_64  zlib.i686 openssl-devel
-wget mysql-4.1.22-2.el4.x86_64.rpm
 wget http://vault.centos.org/4.9/os/x86_64/CentOS/RPMS/mysql-4.1.22-2.el4.x86_64.rpm
 wget http://vault.centos.org/4.9/os/x86_64/CentOS/RPMS/mysql-server-4.1.22-2.el4.x86_64.rpm
 wget http://vault.centos.org/4.9/os/x86_64/CentOS/RPMS/mysql-devel-4.1.22-2.el4.x86_64.rpm
